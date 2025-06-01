@@ -76,12 +76,3 @@ These KPIs are shown as dynamic tiles on the dashboard for quick performance che
 2. Open the `.pbix` file in Power BI Desktop.
 3. Explore the interactive dashboard.
 4. Modify the data source or filters as needed to suit your organization’s use case.
-
----
-
-## 📌 Insights & Conclusions
-
-* The **West region** is the most profitable, while the **East** region has the highest sales.
-* **Phones** and **Chairs** dominate sub-category sales.
-* Sales tend to decline after early peaks, indicating possible seasonal or campaign-based fluctuations.
-* **Geographic map** helps understand state-wise sales concentration for targeted marketing.
